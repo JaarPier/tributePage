@@ -1,0 +1,35 @@
+body{
+    background-color: #839788;
+    font-family: 'Courgette', cursive;
+}
+#title,h4{
+    font-family: 'Chonburi', cursive;
+        color: #12492f;
+}
+.yt{
+    width: 100px;
+}
+a{
+    text-decoration: none;
+    color: #003559;
+}
+a:hover{
+    color: #71cd32;
+}
+span:hover{
+    color: #71cd32;
+}
+span{
+    color: #003559;
+}
+#image{
+    border-radius: 90px 90px 90px 90px;
+}
+#img-caption{
+    font-weight: 700;
+    color: #12492f;
+    font-family: 'Chonburi', cursive;
+}
+#tribute-info{
+    font-size: 20px;;
+}
